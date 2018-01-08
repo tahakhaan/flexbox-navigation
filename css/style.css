@@ -1,0 +1,22 @@
+body {
+  background-color: burlywood;
+}
+body .merg {
+  display: flex;
+  justify-content: space-between;
+}
+body .merg .heading h1 {
+  margin: 0;
+}
+body .nav ul {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+body .nav ul li {
+  border: 1px solid black;
+  list-style: none;
+  margin-right: 5px;
+  padding: 10px;
+  background-color: blanchedalmond;
+}
